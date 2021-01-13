@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/kawacrepe" target="blank"><img src="https://img.shields.io/twitter/follow/kawacrepe?logo=twitter&style=for-the-badge" alt="kawacrepe" /></a> </p>
 
-- 🔭 I’m currently working on **Vue.js stuff**
+- 🔭 I’m currently working on **Vue.js stuff** and learning machine learning things
 
 - 📝 I regulary write articles on [vue](vue)
 

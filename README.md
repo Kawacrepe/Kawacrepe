@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **Vue.js and machine learning related stuff**
 
-- 📝 I regulary write articles on [vue](vue)
-
 - 💬 Ask me about **Vue.js / Node.js**
 
 ### Blogs posts

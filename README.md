@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kawacrepe</h1>
-<h3 align="center">A passionate fullstack developer from France</h3>
+<h3 align="center">A passionate developer from France</h3>
 
-- 🌱 I’m Developer Node.js
+- 🌱 I’m working with Node.js
 - 👯 I’m looking to collaborate on opensource projects
 - 💬 Ask me about Node.js, Vuejs or tech related stuff 
 - ⚡ I’m currently working on [NodeSecure](https://github.com/NodeSecure) and Nodejs related things.

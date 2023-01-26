@@ -17,4 +17,6 @@
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kawacrepe&show_icons=true&locale=en" alt="kawacrepe" /></p>
+![Snake animation](https://github.com/Kawacrepe/Kawacrepe/blob/output/github-contribution-grid-snake.svg)
+
+
